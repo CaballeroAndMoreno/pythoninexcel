@@ -1,1 +1,5 @@
-
+name = "bob" 
+number_of_cars = 2 
+number_of_motorcycles = 3 
+number_of_vehicles = number_of_cars + number_of_motorcycles 
+result = name + " have " + str ( number_of_vehicles ) + " vehicles"
